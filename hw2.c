@@ -23,7 +23,7 @@
 #include "hw2.h"
 
 /************************************************************
-  This program using a sub-linked-list structure to store threads and their sub-posts.
+  This program using a multi-linked-list structure to store threads and their sub-posts.
   Chain of posts ordered in original sequence:
 
     (*list)POST 1 --next--> POST 2 --next--> POST 3(*tail)
