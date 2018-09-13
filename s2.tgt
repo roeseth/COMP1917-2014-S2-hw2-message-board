@@ -1,0 +1,35 @@
+Name: Date: Time: Text: 
+Message 1
+Date: 03/06/2014
+Time: 07:57:11
+Name: Black Sheep
+Text: Baa, Baa!
+
+
+-> 1 Black Sheep: Baa, Baa!
+
+Name: Date: Time: Text: 
+   1 Black Sheep: Baa, Baa!
+-> 2 Bo Peep: Have you any wool?
+
+
+Message 2
+Date: 03/06/2014
+Time: 08:03:22
+Name: Bo Peep
+Text: Have you any wool?
+
+Name: Date: Time: Text: 
+Message 3
+Date: 04/07/2014
+Time: 06:28:41
+Name: Black Sheep
+Text: Yes Sir, Yes Sir.
+Three bags full!
+
+
+   1 Black Sheep: Baa, Baa!
+   2 Bo Peep: Have you any wool?
+-> 3 Black Sheep: Yes Sir, Yes Sir.
+
+Bye!

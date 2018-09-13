@@ -1,0 +1,67 @@
+Name: Date: Time: Text: 
+Message 1
+Date: 04/06/1940
+Time: 13:55:26
+Name: Winston
+Text: We shall fight them on the beaches.
+And we shall never surrender.
+
+
+-> 1 Winston: We shall fight them on the beaches.
+
+Name: Date: Time: Text: 
+   1 Winston: We shall fight them on the beaches.
+-> 2 Jack: Ask not what your country can do for you
+
+Name: Date: Time: Text: 
+   1 Winston: We shall fight them on the beaches.
+   2 Jack: Ask not what your country can do for you
+-> 3 Martin: I have a dream!
+
+
+   1 Winston: We shall fight them on the beaches.
+-> 2 Jack: Ask not what your country can do for you
+   3 Martin: I have a dream!
+
+
+-> 1 Winston: We shall fight them on the beaches.
+   2 Jack: Ask not what your country can do for you
+   3 Martin: I have a dream!
+
+
+Message 1
+Date: 04/06/1940
+Time: 13:55:26
+Name: Winston
+Text: We shall fight them on the beaches.
+And we shall never surrender.
+
+
+Message 2
+Date: 20/01/1961
+Time: 12:45:07
+Name: Jack
+Text: Ask not what your country can do for you
+Ask what you can do for your country.
+
+
+   1 Winston: We shall fight them on the beaches.
+-> 2 Jack: Ask not what your country can do for you
+   3 Martin: I have a dream!
+
+
+-> 1 Winston: We shall fight them on the beaches.
+   2 Jack: Ask not what your country can do for you
+   3 Martin: I have a dream!
+
+
+   1 Winston: We shall fight them on the beaches.
+   2 Jack: Ask not what your country can do for you
+-> 3 Martin: I have a dream!
+
+
+   1 Winston: We shall fight them on the beaches.
+   2 Jack: Ask not what your country can do for you
+-> 3 [deleted]
+
+Bye!

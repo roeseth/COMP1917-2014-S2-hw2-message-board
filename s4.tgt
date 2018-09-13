@@ -1,0 +1,81 @@
+Name: Date: Time: Text: 
+Message 1
+Date: 16/06/1962
+Time: 19:38:51
+Name: John
+Text: Twist and Shout!
+
+Name: Date: Time: Text: 
+Message 2
+Date: 10/02/1967
+Time: 09:25:18
+Name: Paul
+Text: I read the news today, oh boy!
+
+
+Message 1
+Date: 16/06/1962
+Time: 19:38:51
+Name: John
+Text: Twist and Shout!
+
+Name: Date: Time: Text: 
+Message 3
+Date: 26/09/1969
+Time: 06:12:37
+Name: George
+Text: Here comes the sun!
+
+Name: Date: Time: Text: 
+Message 4
+Date: 26/09/1969
+Time: 10:08:42
+Name: Ringo
+Text: I'd like to be under the sea
+in an Octopus's garden in the shade.
+
+
+   1 John: Twist and Shout!
+   3    George: Here comes the sun!
+-> 4       Ringo: I'd like to be under the sea
+   2 Paul: I read the news today, oh boy!
+
+
+   1 John: Twist and Shout!
+   3    George: Here comes the sun!
+   4       Ringo: I'd like to be under the sea
+-> 2 Paul: I read the news today, oh boy!
+
+
+   1 John: Twist and Shout!
+-> 3    George: Here comes the sun!
+   4       Ringo: I'd like to be under the sea
+   2 Paul: I read the news today, oh boy!
+
+
+Message 3
+Date: 26/09/1969
+Time: 06:12:37
+Name: George
+Text: Here comes the sun!
+
+
+Message 1
+Date: 16/06/1962
+Time: 19:38:51
+Name: John
+Text: Twist and Shout!
+
+
+-> 1 John: Twist and Shout!
+   2 Paul: I read the news today, oh boy!
+   3 George: Here comes the sun!
+   4 Ringo: I'd like to be under the sea
+
+
+   1 John: Twist and Shout!
+-> 2 Paul: I read the news today, oh boy!
+   3 George: Here comes the sun!
+   4 Ringo: I'd like to be under the sea
+
+Bye!

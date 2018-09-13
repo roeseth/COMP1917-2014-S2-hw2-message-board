@@ -1,0 +1,90 @@
+Name: Date: Time: Text: 
+Message 1
+Date: 08/04/2014
+Time: 23:58:34
+Name: Hoki
+Text: Put your left hand in
+
+
+-> 1 Hoki: Put your left hand in
+
+Name: Date: Time: Text: 
+   1 Hoki: Put your left hand in
+-> 2 Hoki: Shake it all about
+
+
+-> 1 Hoki: Put your left hand in
+   2 Hoki: Shake it all about
+
+Name: Date: Time: Text: 
+   1 Hoki: Put your left hand in
+   2 Hoki: Shake it all about
+-> 3 Koki: Put your left hand out
+
+
+   1 Hoki: Put your left hand in
+-> 3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+
+-> 1 Hoki: Put your left hand in
+   3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+Name: Date: Time: Text: 
+   1 Hoki: Put your left hand in
+   3    Koki: Put your left hand out
+-> 4    Koki: Put your left leg in
+   2 Hoki: Shake it all about
+
+
+-> 1 Hoki: Put your left hand in
+   3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+
+-> 1 Hoki: Put your left hand in
+   2 Hoki: Shake it all about
+   3 Koki: Put your left hand out
+
+
+-> 1 Hoki: Put your left hand in
+   3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+
+   1 Hoki: Put your left hand in
+-> 3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+Name: Date: Time: Text: 
+   1 Hoki: Put your left hand in
+   3    Koki: Put your left hand out
+-> 4       Koki: Put your whole self in
+   2 Hoki: Shake it all about
+
+
+   1 Hoki: Put your left hand in
+-> 3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+
+Message 3
+Date: 09/04/2014
+Time: 00:00:00
+Name: Koki
+Text: Put your left hand out
+
+
+   1 Hoki: Put your left hand in
+-> 3    Koki: Put your left hand out
+   2 Hoki: Shake it all about
+
+
+Message 3
+Date: 09/04/2014
+Time: 00:00:00
+Name: Koki
+Text: Put your left hand out
+
+Bye!
